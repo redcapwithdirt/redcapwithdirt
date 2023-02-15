@@ -2,7 +2,7 @@
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python Development and opensource.</h3>
 <br>
 
-<img align = "right" alt = "coding" width = "400" height = "300" src = "https://i.pinimg.com/originals/97/bf/14/97bf146ede3ff847420d532ecae8e927.gif"></img>
+<img align = "right" alt = "coding" width = "400" height = "250" src = "https://i.pinimg.com/originals/97/bf/14/97bf146ede3ff847420d532ecae8e927.gif"></img>
 
 <br>
 
