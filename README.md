@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python Development and opensource.</h3>
+<br>
 
-<img align = "right" alt = "coding" width = "400" height = "400" src = "https://i.pinimg.com/originals/97/bf/14/97bf146ede3ff847420d532ecae8e927.gif"></img>
+<img align = "right" alt = "coding" width = "400" height = "300" src = "https://i.pinimg.com/originals/97/bf/14/97bf146ede3ff847420d532ecae8e927.gif"></img>
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redcapwithdirt&label=Profile%20views&color=0e75b6&style=flat" alt="redcapwithdirt" /> </p>
 
