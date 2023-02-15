@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python Development and opensource.</h3>
 
+<img align = "right" alt = "coding" width = "400" height = "400" src = "https://i.pinimg.com/originals/97/bf/14/97bf146ede3ff847420d532ecae8e927.gif"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redcapwithdirt&label=Profile%20views&color=0e75b6&style=flat" alt="redcapwithdirt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/redcapwithdirt" target="blank"><img src="https://img.shields.io/twitter/follow/redcapwithdirt?logo=twitter&style=for-the-badge" alt="redcapwithdirt" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Django**
 
