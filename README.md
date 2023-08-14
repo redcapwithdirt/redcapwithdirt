@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **tech,music,horror**
 
